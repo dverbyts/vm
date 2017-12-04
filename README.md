@@ -1,5 +1,5 @@
-# vm
-Algorithmic Project - Corewar. Summary: In this project, you will create a virtual “arena” in which programs will fight against one another (the “Champions”).
+# Corewar. Algorithmic Project.
+Summary: In this project, you will create a virtual “arena” in which programs will fight against one another (the “Champions”).
 
 What is Corewar?
 • Corewar is a very peculiar game. It’s about bringing “players” together around a
